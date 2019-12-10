@@ -5,4 +5,4 @@ the calculator python
 
 How to use on linux
 
-1. python3 calcu.py
+<i>python3 calcu.py
